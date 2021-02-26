@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "c97ff87d20d78cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca9701fa78d28a4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wuhan Diary notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a5dd26ae2ad2929",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b88d8f75904186c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e342c49dd57a28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a053aeba1faa5250",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a07e1ac9f5197754",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae207af831f58ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c361cf61b5700788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wuhan Diary notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "second vault & git learnings.md"
+  ]
+}
