@@ -10,4 +10,17 @@ Deleted Obsidian Git
 - re-installed Obsidian Git
    but I still do not see how to set up anything; like, where are the settings?
    
+   - OK, so i need to actually turn it on (doh!)
+   - and it says "git:ready" in the bottom bar
+
+ - now what?
+
+ - OK, once enabled I found the setup options. So let us see what happens. (Maybe restart Obsidian first?)
+ - Yay! that all worked. And seems to work.
+
+
+
+
+
+   
    
