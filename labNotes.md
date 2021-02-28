@@ -18,6 +18,12 @@ Deleted Obsidian Git
  - OK, once enabled I found the setup options. So let us see what happens. (Maybe restart Obsidian first?)
  - Yay! that all worked. And seems to work.
 
+Just wait a minute, bucky! Not so fast.
+  - a git update happened 2 hours ago, but new changes do not seem to be acted on.
+  - ha, ha, doh! "Read the instructions, mr. bill"
+
+
+
 
 
 
