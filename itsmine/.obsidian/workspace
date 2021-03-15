@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian-Git install and setup.md",
+            "file": "Nobody's Looking at You notes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian-Git install and setup.md",
+                "file": "Nobody's Looking at You notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Obsidian-Git install and setup.md",
-    "second vault & git learnings.md",
     "Untitled.md",
-    "Wuhan Diary notes.md"
+    "Wuhan Diary notes.md",
+    "Obsidian-Git install and setup.md",
+    "second vault & git learnings.md"
   ]
 }
