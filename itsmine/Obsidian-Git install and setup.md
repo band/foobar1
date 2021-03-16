@@ -18,3 +18,5 @@
 	
   - Test and verify Obsidian-Git operation
   
+  2021-03-16
+  - Now that Obsidian-Git has the pull before push option, let's test that.

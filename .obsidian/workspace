@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "c97ff87d20d78cf4",
+    "id": "d667af77a985a395",
     "type": "split",
     "children": [
       {
-        "id": "2ca9701fa78d28a4",
+        "id": "09a08b49854b0ffc",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian-Git install and setup.md",
+            "file": "labNotes.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a5dd26ae2ad2929",
+    "id": "cb754589c5e443e5",
     "type": "split",
     "children": [
       {
-        "id": "8b88d8f75904186c",
+        "id": "03f9b61c607035f4",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e342c49dd57a28",
+            "id": "6028ce8fa8e7d234",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "a053aeba1faa5250",
+            "id": "71917e232fb47e4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "a07e1ac9f5197754",
+    "id": "e7a65e0ed78ed221",
     "type": "split",
     "children": [
       {
-        "id": "ae207af831f58ef4",
+        "id": "648a6713094041db",
         "type": "tabs",
         "children": [
           {
-            "id": "c361cf61b5700788",
+            "id": "205575a61305d955",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian-Git install and setup.md",
+                "file": "labNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Obsidian-Git install and setup.md",
-    "Nobody's Looking at You notes.md",
-    "Untitled.md",
-    "Wuhan Diary notes.md",
-    "second vault & git learnings.md"
+    "labNotes.md"
   ]
 }

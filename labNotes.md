@@ -23,6 +23,12 @@ Just wait a minute, bucky! Not so fast.
   - ha, ha, doh! "Read the instructions, mr. bill"
 
 
+2021-03-16
+ - setup hotkeys for Obsidian-Git
+
+
+
+
 
 
 
