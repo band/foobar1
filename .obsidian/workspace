@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyNotizen/202103170908.md",
+            "file": "dailyNotizen/202103191440.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNotizen/202103170908.md",
+                "file": "dailyNotizen/202103191440.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "dailyNotizen/202103191440.md",
     "dailyNotizen/202103170908.md",
+    "labNotes.md",
     "README.md",
     "hardCoreCapitalism.md",
     "words for \"notes\".md",
     "itsmine/Nobody's Looking at You notes.md",
-    "itsmine/Wuhan Diary notes.md",
-    "labNotes.md"
+    "itsmine/Wuhan Diary notes.md"
   ]
 }
