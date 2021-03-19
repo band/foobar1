@@ -1,13 +1,5 @@
-2021-02-26
+## testing the github connection
 
-1. successful setup of a second vault
-2. this vault is also a git repository
-3. next step: connect the two
+I think I just lost the nice steps outlined in the blank note about interacting with Github. Interacting with these newer document engineering tools is sometimes just plain odd.
 
-2021-03-01
- 1. successful (?) set up of Obsidian-git TBD
-
-2021-03-03
- 1. yes, Obsidian-Git setup working
- 2. document the install and setup req'ts.
- 
+But let's see if we can post this to Github.
