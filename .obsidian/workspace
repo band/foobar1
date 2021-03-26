@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "d667af77a985a395",
+    "id": "a7853ef52bc2f067",
     "type": "split",
     "children": [
       {
-        "id": "09a08b49854b0ffc",
+        "id": "5d4bca8af7588089",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyNotizen/202103170908.md",
+            "file": "labBench/labNotes.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cb754589c5e443e5",
+    "id": "d498484564fa0469",
     "type": "split",
     "children": [
       {
-        "id": "03f9b61c607035f4",
+        "id": "cffcfdb94a5a8c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "6028ce8fa8e7d234",
+            "id": "6f33cbc842ce7b6a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "71917e232fb47e4e",
+            "id": "944c2716e2a58a80",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "e7a65e0ed78ed221",
+    "id": "8dec11faed9ce99b",
     "type": "split",
     "children": [
       {
-        "id": "648a6713094041db",
+        "id": "226cbe1f7c962966",
         "type": "tabs",
         "children": [
           {
-            "id": "205575a61305d955",
+            "id": "f0b6230355a2c8bd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNotizen/202103170908.md",
+                "file": "labBench/labNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "dailyNotizen/202103170908.md",
-    "README.md",
-    "hardCoreCapitalism.md",
-    "words for \"notes\".md",
+    "labNotes.md",
     "itsmine/Nobody's Looking at You notes.md",
+    "itsmine/second vault & git learnings.md",
+    "words for \"notes\".md",
+    "Untitled.md",
     "itsmine/Wuhan Diary notes.md",
-    "labNotes.md"
+    "itsmine/Obsidian-Git install and setup.md",
+    "README.md"
   ]
 }
