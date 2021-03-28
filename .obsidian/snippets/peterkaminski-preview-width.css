@@ -1,0 +1,5 @@
+/* adjust preview line width */
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 700px; /* default */
+  max-width: 90%;
+}
