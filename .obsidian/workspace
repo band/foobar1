@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dailyNotizen/202103281329.md",
-            "mode": "source"
+            "file": "resources/Einstein-Infeld.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyNotizen/202103281329.md",
+                "file": "resources/Einstein-Infeld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "references/AZADI.md",
     "dailyNotizen/202103281329.md",
     "dailyNotizen/202103191440.md",
     "dailyNotizen/202103170908.md",
@@ -93,7 +95,6 @@
     "README.md",
     "hardCoreCapitalism.md",
     "words for \"notes\".md",
-    "itsmine/Nobody's Looking at You notes.md",
-    "itsmine/Wuhan Diary notes.md"
+    "itsmine/Nobody's Looking at You notes.md"
   ]
 }
