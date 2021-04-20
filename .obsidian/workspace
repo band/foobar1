@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "09a08b49854b0ffc",
+        "id": "7ef5b1f380fb35e8",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/Einstein-Infeld.md",
+            "file": "Levinson_1973_workgroupInOrgExcerpts.md",
             "mode": "preview"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Einstein-Infeld.md",
+                "file": "Levinson_1973_workgroupInOrgExcerpts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "7ef5b1f380fb35e8",
   "lastOpenFiles": [
-    "Untitled.md",
-    "references/AZADI.md",
-    "dailyNotizen/202103281329.md",
-    "dailyNotizen/202103191440.md",
+    "Levinson_1973_workgroupInOrgExcerpts.md",
+    "labBench/2021-03-25 work practice testing.md",
+    "labBench/labNotes.md",
+    "notas/second vault & git learnings.md",
+    "notas/Obsidian-Git install and setup.md",
     "dailyNotizen/202103170908.md",
-    "labNotes.md",
-    "README.md",
-    "hardCoreCapitalism.md",
-    "words for \"notes\".md",
-    "itsmine/Nobody's Looking at You notes.md"
+    "dailyNotizen/202103191440.md",
+    "dailyNotizen/202103281329.md",
+    "resources/Einstein-Infeld.md",
+    "Untitled.md"
   ]
 }
