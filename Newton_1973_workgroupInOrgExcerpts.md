@@ -9,7 +9,7 @@ PSYCHIATRY, Vol. 36, May 1973, pp. 115-142.
 ### Abstract
 
 THE SMALL WORK GROUP is a basic component of modern organizational
-life, Crucial tasks at every level of the organization are entrusted
+life. Crucial tasks at every level of the organization are entrusted
 to work groups of various kinds: executive committees, staff meetings
 and committees with responsibility for policy review, budget planning,
 training, integration of services, and the like. Work groups abound in the
@@ -99,18 +99,19 @@ of structure, namely the division of labor and the division of
 authority. There is a division of labor to the extent that different
 members carry out different parts of the total work of the group. This
 differentiation is ordinarily but not always expressed in the naming
-of positions within the group (e.g., teachers, students; chairman,
-members representing different constituencies; ward chief, head nurse,
-and others comprising a ward leadership group). Informal, implicitly
-defined positions may also emerge (e.g., it is “understood” that
-Member X functions as assistant to the chief, or that Member Y attends
+of positions within the group (e.g., in terms of the clinical example
+in this paper: teachers, students; chairman, members representing
+different constituencies; ward chief, head nurse, and others
+comprising a ward leadership group). Informal, implicitly defined
+positions may also emerge (e.g., it is “understood” that Member X
+functions as assistant to the chief, or that Member Y attends
 meetings but does no work). There is a division of authority to the 
 extent that the legitimate power and responsibility to make decisions
 are distributed unequally within the group. 
 
 At least a minimal degree of hierarchy exists in every organizational
-work group but -— especially in mental health and related professional
-organizations -- the lines of authority are often blurred and made
+work group but - especially in mental health and related professional
+organizations - the lines of authority are often blurred and made
 covert. The social structure of the work group tends to reflect the
 social structure of the organization. The individual members are often
 appointed to represent their occupations or work units. The hierarchy 
@@ -135,7 +136,7 @@ conflicting cultural values and orientations.
 
 Finally, we examine the work group from the vantage point of social
 process. We use this term in the broad sense to refer to how a group
-works —- to its modes of functioning, the ways in which it goes about
+works — to its modes of functioning, the ways in which it goes about
 accomplishing or avoiding or sabotaging its tasks. Social process thus
 has myriad aspects, from the highly rational forms of planning,
 problem solving, and collaborative use of technical skills to the most

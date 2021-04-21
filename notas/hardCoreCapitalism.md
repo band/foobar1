@@ -1,7 +1,7 @@
-2121-03-04
+## 2021-03-04; 2021-04-21
 
 The hard core of captialism
-Is no benevolent hand.
+Is not a benevolent hand.
 
 	
 peterkaminski comment
