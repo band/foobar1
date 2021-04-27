@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maps and mapping.md",
+            "file": "readingNotes/Mason_2021_futureOver.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps and mapping.md",
+                "file": "readingNotes/Mason_2021_futureOver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9c60e4ec84fdee64",
   "lastOpenFiles": [
+    "readingNotes/Mason_2021_futureOver.md",
     "Untitled.md",
+    "resources/Newton_1973_workgroupInOrgExcerpts.md",
+    "resources/gsh-chapter1.md",
+    "resources/Globalization - A Short History.md",
+    "Massive Wiki building.md",
+    "Maps and mapping.md",
     "journalNotes/202104221443.md",
     "Newton_1973_workgroupInOrgExcerpts.md",
-    "Levinson_1973_workgroupInOrgExcerpts.md",
-    "notas/Wuhan Diary notes.md",
-    "notas/Obsidian-Git install and setup.md",
-    "notas/second vault & git learnings.md",
-    "notas/alternate words for notes.md",
-    "notas/Nobody's Looking at You notes.md",
-    "references/EndWhitePolitics-Notes.md"
+    "Levinson_1973_workgroupInOrgExcerpts.md"
   ]
 }

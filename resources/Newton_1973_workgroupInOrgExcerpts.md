@@ -20,7 +20,7 @@ organization, it serves as a mechanism to accomplish or to undermine
 diverse organizational goals. From the point of view of the individual
 the work group is a significant arena in which he(sic) can learn about the
 organization and have a voice in the shaping of its policies and
-practices -- or in which he can experience the corruption of the
+practices -- or in which he can experience the corruption of theˆ
 organization and his own powerlessness within it. By and large, work
 groups do not work very well; they do little either to accomplish
 organizational tasks or to elicit the responsible, constructive
