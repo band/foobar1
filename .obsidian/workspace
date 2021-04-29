@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readingNotes/Mason_2021_futureOver.md",
+            "file": "Notes on learning and instructional design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readingNotes/Mason_2021_futureOver.md",
+                "file": "Notes on learning and instructional design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9c60e4ec84fdee64",
   "lastOpenFiles": [
-    "readingNotes/Mason_2021_futureOver.md",
     "Untitled.md",
+    "journalNotes/202104290712.md",
+    "Massive Wiki building.md",
+    "readingNotes/Mason_2021_futureOver.md",
     "resources/Newton_1973_workgroupInOrgExcerpts.md",
     "resources/gsh-chapter1.md",
     "resources/Globalization - A Short History.md",
-    "Massive Wiki building.md",
     "Maps and mapping.md",
     "journalNotes/202104221443.md",
-    "Newton_1973_workgroupInOrgExcerpts.md",
-    "Levinson_1973_workgroupInOrgExcerpts.md"
+    "Newton_1973_workgroupInOrgExcerpts.md"
   ]
 }

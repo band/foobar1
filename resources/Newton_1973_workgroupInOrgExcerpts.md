@@ -270,9 +270,10 @@ authority locates responsibility for regulating them. The concept of
 boundary is an aspect of open system theory, which treats
 organizations as systems whose survival requires continuous exchange
 of materials with the environment (Katz and Kahn; Miller and Rice;
-also ef. Silverman). Too permeable a boundary invites
-inundation,-chaos, and disorganization, whereas an impermeable
+also cf. Silverman). Too permeable a boundary invites
+inundation, chaos, and disorganization, whereas an impermeable
 boundary becomes a barrier, causing death through entropy.
+[This last phrase is confusing as the use of the word "entropy" in open systems theory is assumed.]
 
 The top management of an organization has responsibility both for the
 internal functioning of that system and for the regulation of its
@@ -325,7 +326,7 @@ fantasies, and feelings, nonrational and irrational, which
 characterize collective life. These processes may interfere with the
 performance of group tasks, and to some extent (as Rice, 1969, has
 indicated) emanate from all those aspects of the person which are
-unused by his specific and limited role in the taskwork.
+unused by his specific and limited role in the task work.
 
 Our more general meaning of social process includes the former, yet
 more broadly encompasses mode and tempo of work, what in fact the
