@@ -6,3 +6,9 @@
 	- bringing Tumblr content over
 	- getting the web-facing MW working
 
+## 2021-05-12
+
+4. build the MW using MWB
+     - all work done in the .massivewikibuilder/ directory
+	 - $ python3 -m venv venv
+	 

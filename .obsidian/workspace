@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TumblrPosts/20101130 Emergency Measures.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TumblrPosts/20101130 Emergency Measures.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9c60e4ec84fdee64",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
+    "TumblrPosts/20100208 Specify the desired results first.md",
+    "Untitled.md",
     "Bain_1998_socialDefenseAgainstOrgLearning.md",
     "journalNotes/202105031427.md",
     "Massive Wiki building notes.md",
     "Notes on learning and instructional design.md",
     "surveillanceCapitalism notes.md",
     "journalNotes/202104290712.md",
-    "Massive Wiki building.md",
-    "readingNotes/Mason_2021_futureOver.md"
+    "Massive Wiki building.md"
   ]
 }

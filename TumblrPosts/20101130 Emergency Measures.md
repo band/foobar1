@@ -1,6 +1,6 @@
 Posted 2010-11-30
 
-[Emergency Measures](http://www.narrativemagazine.com/node/104518)</a> by James Richardson
+[Emergency Measures](http://www.narrativemagazine.com/node/104518) by James Richardson
 
 I take Saturday’s unpopulated trains,
 sitting at uncontagious distances,
