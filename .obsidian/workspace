@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c60e4ec84fdee64",
+        "id": "62ba1743b04e5ed0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Tumblr repostings.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tumblr repostings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25804ef97dd43a8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tumblr repostings.md"
               }
             }
           }
@@ -86,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c60e4ec84fdee64",
+  "active": "62ba1743b04e5ed0",
   "lastOpenFiles": [
+    "Tumblr repostings.md",
     "README.md",
+    "Tumblr reposting.md",
+    "TumblrPosts.md",
+    "Untitled.md",
     "readingNotes/catalist-beta.md",
     "Maps and mapping.md",
     "Notes on learning and instructional design.md",
     "Massive Wiki building notes.md",
-    "2021-04-09 personal massive wiki learnings.md",
-    "TumblrPosts/20100208 Specify the desired results first.md",
-    "Untitled.md",
-    "Bain_1998_socialDefenseAgainstOrgLearning.md",
-    "journalNotes/202105031427.md"
+    "2021-04-09 personal massive wiki learnings.md"
   ]
 }

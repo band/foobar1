@@ -4,7 +4,7 @@ A [Massive Wiki](https://massive.wiki/) housing Bill Anderson's (a.k.a. "band") 
 
 - Journal-like notes
 - Notes on readings
-- Tumblr repostings
+- [[Tumblr repostings]]
 - Drawing board (for the startup ideas)
 - Lab Bench (for experiments and system admin notes)
   
