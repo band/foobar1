@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Maps and mapping - bandstands - a Massive Wiki</title>
+    <link rel="stylesheet" href="/mwb-static/css/mystyles.css">
+    <link rel="stylesheet" href="/mwb-static/css/markdown.css">
+  </head>
+  <body class="has-navbar-fixed-top">
+    <nav class="navbar is-fixed-top is-info" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <div class="is-size-3 is-uppercase has-text-weight-light">bandstands - a Massive Wiki</div>
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasic" class="navbar-menu">
+    <div class="navbar-start">
+      <div class="navbar-item">
+      <div class="buttons">
+        <a class="button is-primary" href="/">
+          <strong>Home</strong>
+        </a>
+        <a class="button is-light" href="/all-pages.html">
+          All Pages
+        </a>
+      </div>
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+      </div>
+    </div>
+  </div>
+</nav>
+    <section class="section">
+      <div class="container markdown-body">
+        <h2>2021-04-23</h2>
+<p>Reading about Topic Maps and responding to Jack Park's thoughts on the differences among mind-maps, concept-maps, and topic maps.</p>
+<p>Jack writes:
+I think in terms of the book <em>Thinking Fast and Slow</em> where I see these mappings:
+-   Mind mapping is light-switch simple and fast for quick thoughts
+-   Concept mapping is slower, requires a bit more thinking
+-   Topic mapping is slow, and really, should be glacially slow, what you do after you have assembled your thoughts through faster means</p>
+<p>My thoughts:
+- Mind-maps are outlines
+- Concept maps are directed graphs
+- Topic maps are information and knowledge organization systems</p>
+<p>For example, the Library of Congress classification scheme is a topic map.</p>
+<p>Yeah, there is something off about this picture. Concept maps represent semantic relationships.</p>
+<p>Topic mapping in information science is like category theory in mathematics. They are both concerned with relationships.</p>
+      </div>
+    </section>
+    <footer class="footer">
+  <div class="content has-text-centered">
+    <div><strong>bandstands - a Massive Wiki</strong> by Bill Anderson.</div>
+    <div>Central repository at <a href="https://github.com/band/bandstands">GitHub/band/bandstands</a>.</div>
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    <div><em>Site last updated on Wednesday, May 12, 2021 at 15:44 UTC.</em></div>
+  </div>
+</footer>
+    <script>document.addEventListener('DOMContentLoaded', () => {
+
+  // Get all "navbar-burger" elements
+  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  // Check if there are any navbar burgers
+  if ($navbarBurgers.length > 0) {
+
+    // Add a click event on each of them
+    $navbarBurgers.forEach( el => {
+      el.addEventListener('click', () => {
+
+        // Get the target from the "data-target" attribute
+        const target = el.dataset.target;
+        const $target = document.getElementById(target);
+
+        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+        el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+
+      });
+    });
+  }
+
+});</script>
+  </body>
+</html>
