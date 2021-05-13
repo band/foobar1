@@ -7,10 +7,9 @@
         "id": "62ba1743b04e5ed0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Tumblr repostings.md",
-            "mode": "source"
+            "file": "images/Holdengraber_2021-04-29_twitter.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tumblr repostings.md",
+                "file": "images/Holdengraber_2021-04-29_twitter.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tumblr repostings.md"
+                "file": "images/Holdengraber_2021-04-29_twitter.png"
               }
             }
           }
@@ -98,15 +97,15 @@
   },
   "active": "62ba1743b04e5ed0",
   "lastOpenFiles": [
+    "images/Holdengraber_2021-04-29_twitter.png",
     "Tumblr repostings.md",
+    "readingNotes/Wuhan Diary notes.md",
+    "TumblrPosts/20101130 Emergency Measures.md",
+    "TumblrPosts/20100208 Specify the desired results first.md",
+    "TumblrPosts/20091206 \"Unfettered\" capitalism.md",
     "README.md",
     "Tumblr reposting.md",
     "TumblrPosts.md",
-    "Untitled.md",
-    "readingNotes/catalist-beta.md",
-    "Maps and mapping.md",
-    "Notes on learning and instructional design.md",
-    "Massive Wiki building notes.md",
-    "2021-04-09 personal massive wiki learnings.md"
+    "Untitled.md"
   ]
 }
