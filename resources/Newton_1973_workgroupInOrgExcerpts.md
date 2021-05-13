@@ -47,7 +47,7 @@ are within this range of size.
 ### AIMS AND THEORETICAL APPROACH
 
 Our primary purpose, as noted above, is to develop a theoretical
-framework for the analysis of the work group.[^Note1] The major rubrics
+framework for the analysis of the work group.(Note1) The major rubrics
 in this framework are: task, social structure, culture, and social
 process. As used here, these terms refer not to simple, unitary
 concepts but to complex, interrelated perspectives or vantage points
@@ -185,7 +185,7 @@ emergence of competing values, ideologies, and factions. Put simply,
 as soon as people know what it is that they are supposed to do,
 serious differences may emerge as to how best to do it, whether it is
 worth doing, and whether some other task would not be more
-valuable.[^Note3]
+valuable.(Note3)
 
 As noted earlier, the definition of primary task and the
 relative priority of the major tasks are often ambiguous or
@@ -214,7 +214,7 @@ are, more or less, formally defined and permanent; they are changed
 through a redefinition of organizational structure, not through the
 comings and goings of individuals. Individuals occupy positions and
 from these positions engage in activities or carry out functions --
-that is, they define and take roles.[^Note8] Role performance is structurally
+that is, they define and take roles.(Note8) Role performance is structurally
 based in requirements which accompany a given position. However, the
 requirements are typically ambiguous enough and the role standardizing
 forces within the social system are weak enough so that individual
@@ -238,7 +238,7 @@ of authority which is another central aspect of social structure.
 
 We refer here to the patterning of subordination within the
 organization. Authority confers legitimacy, or right, to initiate and
-influence processes, to command and direct resources.[^Note7] Within a
+influence processes, to command and direct resources.(Note7) Within a
 rational work structure, authority is vested in positions not in
 individuals, and authority is a corollary of responsibility. That is,
 a position is invested with the authority necessary to meet the
@@ -273,7 +273,7 @@ of materials with the environment (Katz and Kahn; Miller and Rice;
 also cf. Silverman). Too permeable a boundary invites
 inundation, chaos, and disorganization, whereas an impermeable
 boundary becomes a barrier, causing death through entropy.
-[This last phrase is confusing as the use of the word "entropy" in open systems theory is assumed.]
+(This last phrase is confusing as the use of the word "entropy" in open systems theory is assumed.)
 
 The top management of an organization has responsibility both for the
 internal functioning of that system and for the regulation of its
@@ -365,7 +365,7 @@ and the essential social facts to be explained are defined out of
 existence. It is our belief that a comprehensive theory of the work
 group cannot be limited to a single level of analysis but must
 conjointly utilize group-level constructs (such as task, culture,
-social structure, and process)[^Note12] as well as constructs relating
+social structure, and process)(Note12) as well as constructs relating
 the group to its organizational and wider social context, on the one
 hand, and to its individual members, on the other.
 
@@ -386,7 +386,7 @@ INKELES, ALEX, and LEVINSON, DaNreL J. “The Personal System and the Sociocultu
 Katz, DANIEL, and KAHN, Ropert L. The Social Psychology of Organizations; Wiley, 1965.
 
 
-[^Note1]: Our conception of “work group” needs to be distinguished
+Note1: Our conception of “work group” needs to be distinguished
 from that of Bion. For Bion, the work group is that aspect of group
 functioning which is not pervaded by basic assumption life. In his 
 theory, the group is a work group only when it dedicates itself to the
@@ -401,7 +401,7 @@ interpreted in and out of existence. It is always a work group no
 matter how the group's efforts are divided between the pursuit of its
 defined task and the pursuit of other aims.
 
-[^Note3]: Group dynamic theorists within the Tavistock tradition
+Note3: Group dynamic theorists within the Tavistock tradition
 (e.g., Bion, Menzies) have tended to view organization and social
 structure as a defense against anxiety. Not only is such a reduction
 of complex social phenomena to individual-psychological constructs
@@ -414,7 +414,7 @@ its leadership may allow and even foster ambiguity and confusion
 regarding the nature of the primary task in order to avoid what is
 anticipated to be sharp, focused, and painful conflict.
 
-[^Note8]: The distinction between position and role
+Note8: The distinction between position and role
 (Levinson, 1959) is important here -- position refers to structure,
 role to function. If one loses the idea of position and thinks
 exclusively in terms of role, as many social scientists do, then the
@@ -426,7 +426,7 @@ position; confusion ensues if one assumes that each function involves
 a separate location in organizational space.
 
 
-[^Note7]: There is no general consensus regarding the definition of the
+Note7: There is no general consensus regarding the definition of the
 concept of authority. Often, the terms authority and power are used
 interchangeably. For us, there is an important difference between
 these two notions which, if obscured, limits the analysis of social
@@ -442,7 +442,7 @@ State’). Katz and Kahn's treatment of authority (p. 220) as legitimate
 power inherent in positions within the organization is consistent with
 our meaning.
 
-[^Note12]: We do not regard this set of four constructs as
+Note12: We do not regard this set of four constructs as
 exhaustive. In working toward a comprehensive analytical framework, we
 have started with these because we consider them of central
 importance. Among the other constructs that need to be taken into
