@@ -1,6 +1,6 @@
 
 [Donna Thomson]
-
+```
 ancient dreams
 hover and disappear
 at the edge
@@ -25,8 +25,8 @@ oh Awareness
 that dreams itself
 continuously
 into Being
-
+```
 
 (Source inside the FB: https://www.facebook.com/donna.thomson.52/posts/4296617277018383 )
 
-[[From An Essay on Waiting]]
+Speaking of dreams: [[From An Essay on Waiting]]
