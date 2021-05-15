@@ -11,13 +11,13 @@ One primary thesis: "All organizations have socially constructed defenses agains
 Q: What are these anxieties? And how to people manage them?
 
 p. 414
-Elliott Jaques introduced the concept of social defenses against anxiety in 1955. The “specific hypothesis” he explored was that “one of the primary cohesive elements binding individuals into institutionalized human associa- tion is that of defence against psychotic anxiety” (1955, p. 479). Jaques (1955) linked the concept of identification in group formation as derived by Freud (1921) with the processes of introjective and projective identifi- cation as elaborated by Melanie Klein (1932, 1948, 1952, p. 483).  ... He concludes “the view has here been advanced that one of the primary dynamic forces pulling individuals into institutionalized human association is that of defence against paranoid and depressive anxiety; and, conversely, that all institutions are unconsciously used by their members as mechanisms of defence against these psychotic anxieties” (p. 496).
+Elliott Jaques introduced the concept of social defenses against anxiety in 1955. The “specific hypothesis” he explored was that “one of the primary cohesive elements binding individuals into institutionalized human association is that of defence against psychotic anxiety” (1955, p. 479). Jaques (1955) linked the concept of identification in group formation as derived by Freud (1921) with the processes of introjective and projective identification as elaborated by Melanie Klein (1932, 1948, 1952, p. 483).  ... He concludes “the view has here been advanced that one of the primary dynamic forces pulling individuals into institutionalized human association is that of defence against paranoid and depressive anxiety; and, conversely, that all institutions are unconsciously used by their members as mechanisms of defence against these psychotic anxieties” (p. 496).
 
  
 
-[^Note3]This work is increasingly being referred to as “socio-analysis, ” i.e., the activity of exploration, consultancy, and action research that combines and synthesizes methodologies derived from psychoanalysis, group relations theory, social systems thinking, social dreaming, and organizational behavior.
+p. 415, Footnote3: This work is increasingly being referred to as “socio-analysis, ” i.e., the activity of exploration, consultancy, and action research that combines and synthesizes methodologies derived from psychoanalysis, group relations theory, social systems thinking, social dreaming, and organizational behavior.
 
-(WLA: might the work of OGM also be a kind of sociotechnical-analysis? An activity combining, exploration, reflection, and action research that combines and synthesizes methods from general systems thinking, open technology systems and software development, information and knowledge curation and engineering, human and machine learning, music, art, and literature, ....)
+(WLA: might the work of OGM also be a kind of sociotechnical-analysis? An activity of exploration, reflection, and action research that combines and synthesizes methods from general systems thinking, open technology systems and software development, information and knowledge curation and engineering, human and machine learning, music, art, and literature, ....)
 
 
 p. 416
