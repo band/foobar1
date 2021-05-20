@@ -10,7 +10,7 @@ A [Massive Wiki](https://massive.wiki/) housing Bill Anderson's (a.k.a. "band") 
 
 -----
 
-- Journal-like notes
+- [[Journal-like notes]]
 - [[Notes from and on readings]]
 - [[Tumblr repostings]]
 - Drawing board (for the startup ideas)
