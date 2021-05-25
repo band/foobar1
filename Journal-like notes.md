@@ -1,3 +1,5 @@
+[[journalNotes/20210525 - a world of tropes]]
+
 [[journalNotes/202105031427]]
 
 [[journalNotes/202104290712]]
