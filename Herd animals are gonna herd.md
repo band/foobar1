@@ -1,16 +1,17 @@
 ## Humans are herd animals, in person and online
  
 
-2021-05-15
+#### 2021-05-15
+
 We may have left the 20th century hierarchical organization behind, but our psychodynamics are still with us. Collaborative working in collectives and networked arrangements provide new ways of accomplishing tasks, but also provide social defenses against our psychotic anxieties. New group structures eschew formal hierarchy, and work and employment arrangements seem more precarious, resulting in a general uncertainty about the future(s). Precarity is not our friend -- we need to manage the feelings it raises. The anxieties stimulated need to be managed consciously or behind the scenes.
 
 Psycho-social analysis of these group work organizations and behaviors can reveal maladaptive behaviors and promote group learning and productive adaptation.
 
-Wow! That's a lot to take in.
+Well that's a lot to take in.
 
 
 -----
-### Reference readings and notes
+#### Reference readings and notes
 
 - [[Bain_1998_socialDefenseAgainstOrgLearning]]
 	- reflective practices can promote productive and learning work systems
