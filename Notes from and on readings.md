@@ -7,3 +7,5 @@ Here are the idiosyncratic excerpts and notes on materials I have read.
 - [[readingNotes/EndWhitePolitics-Notes]]
 - [[readingNotes/Steve Lewis - art on the other side]]
 - [[readingNotes/Mason_2021_futureOver]]
+- [[readingNotes/Bruno Schulz - The Book]]
+- [[Lewis Hyde - Remembered Forgotten]]
