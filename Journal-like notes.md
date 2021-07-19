@@ -1,4 +1,3 @@
-
 [[journalNotes/2021-06-06 Our nationalistic future]]
 
 [[journalNotes/2021-06-26-14-56-42]]
@@ -32,5 +31,4 @@
 [[journalNotes/20210525 - a world of tropes]]
 
 [[journalNotes/202107190906 simsa04 on climate and recent floods in Germany]]
-
 
