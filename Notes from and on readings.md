@@ -8,4 +8,5 @@ Here are the idiosyncratic excerpts and notes on materials I have read.
 - [[readingNotes/Steve Lewis - art on the other side]]
 - [[readingNotes/Mason_2021_futureOver]]
 - [[readingNotes/Bruno Schulz - The Book]]
-- [[Lewis Hyde - Remembered Forgotten]]
+- [[readingNotes/Lewis Hyde - Remembered Forgotten]]
+- [[readingNotes/C A Bayly The Birth of the Modern World 1780-1914]]

@@ -16,19 +16,20 @@
 
 [[journalNotes/2021-07-18-17-09-20 Samuel Beckett]]
 
-[[journalNotes/202103170908]]
+[[journalNotes/2021-03-17-09-08]]
 
-[[journalNotes/202103191440]]
+[[journalNotes/2021-03-19-14-40]]
 
-[[journalNotes/202103281329]]
+[[journalNotes/2021-03-28-13-29]]
 
-[[journalNotes/202104221443]]
+[[journalNotes/2021-04-22-14-43]]
 
-[[journalNotes/202104290712]]
+[[journalNotes/2021-04-29-07-12]]
 
-[[journalNotes/202105031427]]
+[[journalNotes/2021-05-03-14-27]]
 
-[[journalNotes/20210525 - a world of tropes]]
+[[journalNots/2021-05-25 - a world of tropes]]
 
-[[journalNotes/202107190906 simsa04 on climate and recent floods in Germany]]
+[[journalNotes/2021-07-19-09-06 simsa04 on climate and recent floods in Germany]]
 
+[[journalNotes/2021-07-27 Glennon Doyle raising a boy]]
