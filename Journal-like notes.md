@@ -1,35 +1,34 @@
-[[journalNotes/2021-06-06 Our nationalistic future]]
+#### Notes from various times and places.
 
-[[journalNotes/2021-06-26-14-56-42]]
-
-[[journalNotes/2021-06-26-16-14-29]]
-
-[[journalNotes/2021-07-01-16-04-15 Wallace-Wells on reducing fossil fuel use]]
-
-[[journalNotes/2021-07-03-21-46-41 Andrew Dressler wet bulb temp and human life]]
-
-[[journalNotes/2021-07-11-21-19-11 Eric Holthaus on Death Valley temperatures]]
-
-[[journalNotes/2021-07-13-21-25-37 Tom Nichols]]
-
-[[journalNotes/2021-07-16-10-54-13 Humans and AI]]
-
-[[journalNotes/2021-07-18-17-09-20 Samuel Beckett]]
-
-[[journalNotes/2021-03-17-09-08]]
-
-[[journalNotes/2021-03-19-14-40]]
-
-[[journalNotes/2021-03-28-13-29]]
-
-[[journalNotes/2021-04-22-14-43]]
-
-[[journalNotes/2021-04-29-07-12]]
-
-[[journalNotes/2021-05-03-14-27]]
-
-[[journalNots/2021-05-25 - a world of tropes]]
-
-[[journalNotes/2021-07-19-09-06 simsa04 on climate and recent floods in Germany]]
-
-[[journalNotes/2021-07-27 Glennon Doyle raising a boy]]
+- [[journalNotes/2021-03-17-09-08]]
+- [[journalNotes/2021-03-19-14-40]]
+- [[journalNotes/2021-03-28-13-29]]
+- [[journalNotes/2021-04-07 notes on Distill hiatus]]
+- [[journalNotes/2021-04-22-14-43]]
+- [[journalNotes/2021-04-29-07-12]]
+- [[journalNotes/2021-05-03-14-27]]
+- [[journalNotes/2021-05-25 - a world of tropes]]
+- [[journalNotes/2021-06-06 Our nationalistic future]]
+- [[journalNotes/2021-06-26-14-56-42]]
+- [[journalNotes/2021-06-26-16-14-29]]
+- [[journalNotes/2021-06-27-09-50-34 auctioning spectrum]]
+- [[journalNotes/2021-06-27-17-09-13 Pacific-NW heat wave]]
+- [[journalNotes/2021-06-30-07-04-30 healing the climate]]
+- [[journalNotes/2021-07-01-16-04-15 Wallace-Wells on reducing fossil fuel use]]
+- [[journalNotes/2021-07-02-21-09-19]]
+- [[journalNotes/2021-07-03-21-46-41 Andrew Dressler wet bulb temp and human life]]
+- [[journalNotes/2021-07-11-21-19-11 Eric Holthaus on Death Valley temperatures]]
+- [[journalNotes/2021-07-12-17-36-42 Naruda - understanding ourselves]]
+- [[journalNotes/2021-07-12-18-21-35 maps]]
+- [[journalNotes/2021-07-13-21-25-37 Tom Nichols]]
+- [[journalNotes/2021-07-16-10-54-13 Humans and AI]]
+- [[journalNotes/2021-07-18-17-09-20 Samuel Beckett]]
+- [[journalNotes/2021-07-19-09-06 simsa04 on climate and recent floods in Germany]]
+- [[journalNotes/2021-07-19-17-51-45 critical race theory]]
+- [[journalNotes/2021-07-19-20-50-45 Rilke on the colour blue]]
+- [[journalNotes/2021-07-22-18-33-55]]
+- [[journalNotes/2021-07-23-17-43-27 pandemic collective action]]
+- [[journalNotes/2021-07-24-21-20-36 we need chief sociologists]]
+- [[journalNotes/2021-07-26-17-24-25 Alain de Botton one has to laugh]]
+- [[journalNotes/2021-07-27 Glennon Doyle raising a boy]]
+- [[journalNotes/the thread is lost]]
