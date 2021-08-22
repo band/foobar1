@@ -9,13 +9,15 @@ A [Massive Wiki](https://massive.wiki/) housing Bill Anderson's (a.k.a. "band") 
 ![Alt text](https://scripps.ucsd.edu/bluemoon/co2_400/daily_value.png)
 
 -----
-
+#### A rudimentary "Table of Contents"
 - [[Journal-like notes]]
 - [[Notes from and on readings]]
 - [[Tumblr repostings]]
 - [[OGM Notes and Excerpts/OGM Belonging and Big Narrative]]
 - [[the Drawing Board]]
 - Lab Bench (for experiments and system admin notes)
+
+
   
 
 
