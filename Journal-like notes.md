@@ -1,5 +1,11 @@
 #### Notes from various times and places.
 
+- [[journalNotes/2021-09-23 Alexey Navalny big tech as Putin accomplices]]
+- [[journalNotes/2021-09-17-13-32 moral case for guaranteed income]]
+- [[journalNotes/2021-09-11-21-07-54 Stillness as discernment practice]]
+- [[journalNotes/2021-09-02-13-39 Beth Sawin on multisolving]]
+- [[journalNotes/2021-08-20 And the mountains echoed]]
+- [[journalNotes/2021-08-19-07-19-32]]
 - [[journalNotes/2021-08-10 Mood This is not hot girl summer]]
 - [[journalNotes/2021-08-07-17-47-34 Preparing for the report]]
 - [[journalNotes/2021-08-03 A Ghosh on Dan Sherell Warmth]]
