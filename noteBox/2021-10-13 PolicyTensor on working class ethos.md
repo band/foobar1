@@ -2,6 +2,7 @@
 created: 2021-10-13T07:07:22-05:00
 modified: 2021-10-13T07:07:35-05:00
 ---
+# 2021-10-13: Working class ethos
 
 Policy Tensor (@policytensor): This goes to the heart of the paradox discovered by @thomasfrank_ in What's the matter with Kansas? 1/
 

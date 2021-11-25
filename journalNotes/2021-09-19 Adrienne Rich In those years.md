@@ -2,6 +2,7 @@
 created: 2021-09-19T17:09:55-05:00
 modified: 2021-09-19T17:10:06-05:00
 ---
+# 2021-09-19 Adrienne Rich In those years
 
 @holdengraber: IN THOSE YEARS 
 

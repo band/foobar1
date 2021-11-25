@@ -2,7 +2,7 @@
 created: 2021-09-20T18:29:26-05:00
 modified: 2021-09-20T18:29:31-05:00
 ---
-
+# 2021-09-20 DrVolts on energy transition models
 David Roberts (@drvolts): In the past, energy-economic models have almost uniformly underestimated the rate of deployment of renewable energy and overestimated its costs. A team at Oxford has tried to correct for that. Fascinating results. A short thread.
 https://www.inet.ox.ac.uk/files/energy_transition_paper-INET-working-paper.pdf
 

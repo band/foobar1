@@ -2,6 +2,7 @@
 created: 2021-10-04T21:14:14-05:00
 modified: 2021-10-04T21:14:19-05:00
 ---
+# 2021-10-04 Brian Klass Authoritarianism tipping points
 
 Brian Klaas (@brianklaas): 1. A lot of my academic research has involved travelling to places where political violence has led to the breakdown of democracy and the rise of authoritarianism. And a dynamic I’m not sure is fully appreciated in the US is how small numbers of people can create tipping points.
 
