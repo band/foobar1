@@ -3,7 +3,7 @@
 Twitter as a source for learning about learning and critques of the same.
 
 Dr. Jessica Marie Johnson - @jmjafrx: 
-https://twitter.com/jmjafrx/status/1387367532277997568
+<https://twitter.com/jmjafrx/status/1387367532277997568>
 
 "...much of the field, with its roots in military training, had evolved into a landscape of prescriptive models based on a poor understanding of human learning..."
 

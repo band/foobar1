@@ -1,4 +1,4 @@
-2019-11-15
+# 2019-11-15 Italo Calvino
 
 I would like to put together a collection of stories consisting of a
 single sentence, or if possible a single line. But so far I haven't

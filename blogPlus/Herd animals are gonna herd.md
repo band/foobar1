@@ -15,7 +15,7 @@ Well that's a lot to take in.
 
 - [[Bain_1998_socialDefenseAgainstOrgLearning]]
 	- reflective practices can promote productive and learning work systems
-- [[Newton_1973_workgroupInOrgExcerpts]]
+- [[Newton_1973_workgroupInOrg Excerpts]]
 	- psycho-social analysis of work groups in organizations examines the
 		- division of labor;
 		- division of authority;
