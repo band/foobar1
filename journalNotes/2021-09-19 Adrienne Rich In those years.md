@@ -12,4 +12,4 @@ we found ourselves
 reduced to I”
      ~ Adrienne Rich
 
-thanks to @YaleReview https://twitter.com/holdengraber/status/1349177256241860608/photo/1
+thanks to @YaleReview <https://twitter.com/holdengraber/status/1349177256241860608/photo/1>

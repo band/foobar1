@@ -2,7 +2,7 @@
 created: 2022-01-22T17:52:58-06:00
 modified: 2022-01-22T17:53:04-06:00
 ---
-# 2022-01-22 JMilolay thread: writing well without getting stuck
+# 2022-01-22 JMikolay thread: writing well without getting stuck
 
 
 Justin Mikolay 💻 (@jmikolay): The ultimate career hack:

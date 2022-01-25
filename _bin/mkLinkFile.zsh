@@ -8,12 +8,12 @@ makeWikiLinks ()
     IFS=$'\n'
     for i in $(ls -r)
     do
-        echo "- [[$(basename $(pwd))/$(basename "$i" .md)]]" >> ${@:-./linkFile.md}
+        echo "- [[$(basename $(pwd))/$(basename "$i" .md)]]" >> ${@:-./.linkFile.md}
     done
     IFS=$' \t\n\0'
     return
 }
 #
-set -- "${*:-./linkFile.md}"
+set -- "${*:-./.linkFile.md}"
 cat ._header.md > "$1"
 makeWikiLinks "$1"
