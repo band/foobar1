@@ -1,10 +1,14 @@
 #!/usr/bin/env python
 
-# Massive Wiki Builder v1.3.1 - https://github.com/peterkaminski/massivewikibuilder
+# Massive Wiki Builder v1.5.0 - https://github.com/peterkaminski/massivewikibuilder
 
+# set up logging
+import logging, os
+logging.basicConfig(level=os.environ.get('LOGLEVEL', 'WARNING').upper())
+
+# python libraries
 import argparse
 import json
-import os
 import re
 import shutil
 import sys
@@ -38,6 +42,7 @@ markdown_configs = {
 }
 markdown_extensions = [
     'footnotes',
+    'tables',
     WikiLinkPlusExtension(markdown_configs['mdx_wikilink_plus']),
 ]
 markdown = Markdown(output_format="html5", extensions=markdown_extensions)
@@ -79,14 +84,26 @@ def read_markdown_and_front_matter(path):
     # return Markdown + empty dict
     return ''.join(lines), {}
 
+# read and convert Sidebar markdown to HTML
+def sidebar_convert_markdown(path):
+    if path.exists():
+        markdown_text, front_matter = read_markdown_and_front_matter(path)
+    else:
+        markdown_text = ''
+    return markdown.convert(markdown_text)
+
+
 # handle datetime.date serialization for json.dumps()
 def datetime_date_serializer(o):
     if isinstance(o, datetime.date):
         return o.isoformat()
 
 def main():
+    logging.debug("Initializing")
+
     argparser = init_argparse();
     args = argparser.parse_args();
+    logging.debug(f"args: {args}")
 
     # get configuration
     config = load_config(args.config)
@@ -102,13 +119,16 @@ def main():
     # render the wiki
     try:
         # remove existing output directory and recreate
+        logging.debug("remove existing output directory and recreate")
         shutil.rmtree(dir_output, ignore_errors=True)
         os.mkdir(dir_output)
 
         # copy wiki to output; render .md files to HTML
+        logging.debug("copy wiki to output; render .md files to HTML")
         all_pages = []
         page = j.get_template('page.html')
         build_time = datetime.datetime.now(datetime.timezone.utc).strftime("%A, %B %d, %Y at %H:%M UTC")
+        sidebar_body = sidebar_convert_markdown(Path(dir_wiki) / config['sidebar'])
         for root, dirs, files in os.walk(dir_wiki):
             dirs[:] = [d for d in dirs if not d.startswith('.')]
             files = [f for f in files if not f.startswith('.')]
@@ -116,7 +136,10 @@ def main():
             path = re.sub(r'([ ]+_)|(_[ ]+)|([ ]+)', '_', readable_path)
             if not os.path.exists(Path(dir_output) / path):
                 os.mkdir(Path(dir_output) / path)
+            logging.debug(f"processing {files}")
             for file in files:
+                if file == config['sidebar']:
+                    continue
                 clean_name = re.sub(r'([ ]+_)|(_[ ]+)|([ ]+)', '_', file)
                 if file.lower().endswith('.md'):
                     # parse Markdown file
@@ -128,6 +151,7 @@ def main():
                     (Path(dir_output) / path / clean_name).with_suffix(".json").write_text(json.dumps(front_matter, indent=2, default=datetime_date_serializer))
 
                     # render and output HTML
+                    markdown.reset() # needed for footnotes extension
                     markdown_body = markdown.convert(markdown_text)
                     html = page.render(
                         build_time=build_time,
@@ -136,24 +160,29 @@ def main():
                         repo=config['repo'],
                         license=config['license'],
                         title=file[:-3],
-                        markdown_body=markdown_body
+                        markdown_body=markdown_body,
+                        sidebar_body=sidebar_body
                     )
                     (Path(dir_output) / path / clean_name).with_suffix(".html").write_text(html)
 
                     # remember this page for All Pages
                     all_pages.append({'title':f"{readable_path}/{file[:-3]}", 'path':f"{path}/{clean_name[:-3]}.html"})
-                # copy all original files
-                shutil.copy(Path(root) / file, Path(dir_output) / path / clean_name)
+        # copy all original files
+        logging.debug("copy all original files")
+        shutil.copy(Path(root) / file, Path(dir_output) / path / clean_name)
 
         # copy README.html to index.html if no index.html
+        logging.debug("copy README.html to index.html if no index.html")
         if not os.path.exists(Path(dir_output) / 'index.html'):
             shutil.copyfile(Path(dir_output) / 'README.html', Path(dir_output) / 'index.html')
 
         # copy static assets directory
+        logging.debug("copy static assets directory")
         if os.path.exists(Path(dir_templates) / 'mwb-static'):
             shutil.copytree(Path(dir_templates) / 'mwb-static', Path(dir_output) / 'mwb-static')
 
         # build all-pages.html
+        logging.debug("build all-pages.html")
         all_pages = sorted(all_pages, key=lambda i: i['title'].lower())
         html = j.get_template('all-pages.html').render(
             build_time=build_time,
@@ -164,6 +193,9 @@ def main():
             license=config['license']
         )
         (Path(dir_output) / "all-pages.html").write_text(html)
+
+        # done
+        logging.debug("done")
 
     except Exception as e:
         traceback.print_exc(e)
