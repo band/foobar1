@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Massive Wiki Builder v1.5.0 - https://github.com/peterkaminski/massivewikibuilder
 

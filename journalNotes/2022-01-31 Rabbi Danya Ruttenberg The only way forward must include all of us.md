@@ -7,7 +7,7 @@ Rabbi Danya Ruttenberg (@TheRaDR): We normalized the mass shooting of six and se
 
 We normalized the mass deaths of almost an entire generation of gay men and did nothing (until absolutely forced to.)
 
-We have normalized a 500% increase in incarceration since 1970. https://twitter.com/steveubc/status/1488320167192903685
+We have normalized a 500% increase in incarceration since 1970. <https://twitter.com/steveubc/status/1488320167192903685>
 
 Rabbi Danya Ruttenberg (@TheRaDR): Our country’s horrific and dehumanized response to this pandemic is of a piece of so many other responses to so many things. From its two great founding sins (enslavement and genocide) on down. 
 
