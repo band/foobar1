@@ -13,9 +13,9 @@ Well that's a lot to take in.
 -----
 #### Reference readings and notes
 
-- [[Bain_1998_socialDefenseAgainstOrgLearning]]
+- [[Alastair Bain 1998 Social Defense Against Org Learning]]
 	- reflective practices can promote productive and learning work systems
-- [[Newton_1973_workgroupInOrg Excerpts]]
+- [[Peter Newton 1973 The Work Group Within the Organization - excerpts]]
 	- psycho-social analysis of work groups in organizations examines the
 		- division of labor;
 		- division of authority;

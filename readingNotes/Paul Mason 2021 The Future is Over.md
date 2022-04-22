@@ -1,4 +1,4 @@
-# The Future is over
+# The Future is Over
 	By Paul Mason
 
 ## ARTICLE n. 18 / 2021
