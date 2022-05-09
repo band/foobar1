@@ -6,6 +6,8 @@
 [[/Notes from and on readings]]  
 [[/The Drawing Board]]
 
+[[/Tumblr repostings]]
+
 #### General Navigation
 
 [All Pages](/all-pages.html)  
