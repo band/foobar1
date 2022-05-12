@@ -4,7 +4,7 @@
 
 [[TumblrPosts/20101130 Emergency Measures]]
 
-[[TumblrPosts/20130423 How writers interact with the world]]
+[[2013-04-23 How writers interact with the world]]
 
 
 
