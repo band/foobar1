@@ -2,11 +2,11 @@
 
 #### Selected Content
 
-[[/Journal-like notes]]  
-[[/Notes from and on readings]]  
-[[/The Drawing Board]]
+[[Journal-like notes]]  
+[[Notes from and on readings]]  
+[[the Drawing Board]]    
 
-[[/Tumblr repostings]]
+[[Tumblr repostings]]  
 
 #### General Navigation
 
