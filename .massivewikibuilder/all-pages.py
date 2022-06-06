@@ -27,7 +27,7 @@ def main():
         # copy wiki to output; render .md files to HTML
         for root, dirs, files in os.walk(dir_wiki):
             dirs[:] = [d for d in dirs if not d.startswith('.')]
-            files = [f for f in files if not (f.startswith('.') or f.startswith('_'))]
+            files = [f for f in files if not f.startswith('.')]
             readable_path = root[len(dir_wiki)+1:]
             path = re.sub(r'([ ]+_)|(_[ ]+)|([ ]+)', '_', readable_path)
             for file in files:
