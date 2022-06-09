@@ -4,7 +4,7 @@ A [Massive Wiki](https://massive.wiki/) housing Bill Anderson's (a.k.a. "band") 
 
 For now, use the "All Pages" button at the top to find your way around.
 
-Click the "<" icon in the upper right to open the Hypothesis annotation/highlights panel.  Sign up or log into Hypothesis in that panel to add comments and annotations to the pages in this wiki.
+**Comments welcome!** Click the "<" icon in the upper right to open the Hypothesis annotation/highlights panel.  Sign up or log into Hypothesis in that panel to add comments and annotations to the pages in this wiki.
 
 -----
 
