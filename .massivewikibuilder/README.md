@@ -13,7 +13,7 @@ The `.` character is important when the MWB directory is within the wiki itself.
 ---- .massivewikibuilder/ # MWB and its input/output
 ------ output/ # MWB writes .html, .md, and .json files here
 ------ themes/ # all the themes
--------- alto/ # a specific theme
+-------- basso-thiswiki/ # a specific theme for this wiki
 ```
 
 Note that MWB removes (if necessary) and recreates the `output` directory each time it is run.
@@ -30,7 +30,7 @@ Note that MWB removes (if necessary) and recreates the `output` directory each t
 In `.massivewikibuilder/`:
 
 ```shell
-./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto
+./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/basso-thiswiki
 ```
 
 If you want to print a log what's happening during the build, set the `LOGLEVEL` environment variable to `DEBUG`.
@@ -38,14 +38,14 @@ If you want to print a log what's happening during the build, set the `LOGLEVEL`
 On the command line, do:
 
 ```shell
-LOGLEVEL=DEBUG ./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto
+LOGLEVEL=DEBUG ./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/basso-thiswiki
 ```
 
 or:
 
 ```shell
 export LOGLEVEL=DEBUG
-./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto
+./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/basso-thiswiki
 ```
 
 In `netlify.toml`, do:
@@ -66,7 +66,7 @@ For Netlify deploys, you can include a `netlify.toml` file like this at the root
   ignore = "/bin/false"
   base = ".massivewikibuilder"
   publish = "output"
-  command = "./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto"
+  command = "./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/basso-thiswiki"
 
 [build.environment]
   PYTHON_VERSION = "3.8"
