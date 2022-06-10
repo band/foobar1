@@ -16,7 +16,7 @@
 - [[readingNotes/Hannah Arendt on the post-truth presidency]]
 - [[readingNotes/From An Essay on Waiting]]
 - [[Zerlina Maxwell The End of White Politics Notes]]
-- [[readingNotes/Einstein-Infeld on Physical Concepts]]
+- [[Einstein & Infeld on Physical Concepts]]
 - [[readingNotes/Doris Lessing, on education]]
 - [[readingNotes/Donna Thompson - ancient dreams]]
 - [[readingNotes/C A Bayly The Birth of the Modern World 1780-1914]]

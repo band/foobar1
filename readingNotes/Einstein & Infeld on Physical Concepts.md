@@ -1,4 +1,4 @@
-## Einstein and Infeld on Physical Concepts
+# Einstein and Infeld on Physical Concepts
 
       
 

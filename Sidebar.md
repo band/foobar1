@@ -4,9 +4,10 @@
 
 [[Journal-like notes]]  
 [[Notes from and on readings]]  
-[[the Drawing Board]]    
-
+[[the Drawing Board]]  
 [[Tumblr repostings]]  
+
+[[Einstein & Infeld on Physical Concepts]]  
 
 #### General Navigation
 
