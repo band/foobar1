@@ -93,7 +93,43 @@ In `netlify.toml`, do:
 [build.environment]
   LOGLEVEL = "DEBUG"
 ```
+## Lunr
 
+To build an index for the [Lunr](https://lunrjs.com/) search engine, include the `--lunr` flag:
+
+```shell
+./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto --lunr
+```
+
+Lunr is a JavaScript library, so Node.js (`node`) and the Lunr library must be installed.
+
+To install Node, see <https://nodejs.org/en/download/>. On Mac, you may want to do `brew install node`.
+
+To install Lunr, in `.massivewikibuilder/` do:
+
+```shell
+npm ci # reads package.json and package-lock.json
+```
+
+When MWB runs, the Lunr index is generated at the root of the output directory, named like this (numbers change every microsecond): `lunr-index-1656193058.85086.js`.
+
+A template variable, `lunr_index_sitepath`, containing the website path to the generated index JavaScript file, is passed to templates as the pages are built.
+
+In templates, loading the index is done like this:
+
+```
+{% if lunr_index_sitepath != '' %}
+<script src="{{lunr_index_sitepath}}"></script>
+{% endif %}
+```
+
+which results in this on the generated webpage:
+
+```html
+<script src="/lunr-index-1656193058.85086.js"></script>
+```
+
+which results in the contents of the index being in a variable called `lunr_index`.
 
 
 ## Deploy (Netlify)
