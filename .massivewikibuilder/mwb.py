@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Massive Wiki Builder v1.7.0 - https://github.com/peterkaminski/massivewikibuilder
+# Massive Wiki Builder v1.9.0 - https://github.com/peterkaminski/massivewikibuilder
 
 # set up logging
 import logging, os
@@ -23,6 +23,7 @@ import jinja2
 from markdown import Markdown
 sys.path.append('./mwb_wikilink_plus/')
 from mwb_wikilink_plus.mwb_wikilink_plus import WikiLinkPlusExtension
+from mwb_del.mwb_del import DelExtension
 
 # set up argparse
 def init_argparse():
@@ -36,17 +37,17 @@ def init_argparse():
 wikifiles = {}
 
 def mwb_build_wikilink(path, base, end, url_whitespace, url_case):
-    logging.debug("1 mwb_build_wikilink: path: ", path)
+    logging.debug("1 mwb_build_wikilink: path: %s", path)
     path_name = Path(path).name
     wikilink = Path(path_name).as_posix()  # use path_name if no wikipath
     if path_name in wikifiles.keys():
         wikipath = wikifiles[path_name]
-        logging.debug("2 mwb_build_wikilink: wikipath: ", wikipath)
+        logging.debug("2 mwb_build_wikilink: wikipath: %s", wikipath)
         if wikipath.endswith('.md'):
             wikilink = Path(wikipath).with_suffix('.html').as_posix()
         else:
             wikilink = Path(wikipath).as_posix()
-    logging.debug("3 mwb_build_wikilink return: ", wikilink)
+    logging.debug("3 mwb_build_wikilink return: %s", wikilink)
     return wikilink
 
 # set up markdown
@@ -62,6 +63,7 @@ markdown_extensions = [
     'footnotes',
     'tables',
     WikiLinkPlusExtension(markdown_configs['mwb_wikilink_plus']),
+    DelExtension(),
 ]
 markdown = Markdown(output_format="html5", extensions=markdown_extensions)
 
@@ -125,7 +127,7 @@ def main():
 
     argparser = init_argparse();
     args = argparser.parse_args();
-    logging.debug(f"args: {args}")
+    logging.debug("args: %s", args)
 
     # get configuration
     config = load_config(args.config)
@@ -159,7 +161,7 @@ def main():
                     wikifiles[Path(file).stem] = f"{path}/{clean_name}"
                 else:
                     wikifiles[Path(file).name] = f"{path}/{clean_name}"
-        logging.debug("wikifiles: ", wikifiles)
+        logging.debug("wikifiles: %s", wikifiles)
         # copy wiki to output; render .md files to HTML
         logging.debug("copy wiki to output; render .md files to HTML")
         all_pages = []
@@ -176,9 +178,9 @@ def main():
             path = scrub_path(readable_path)
             if not os.path.exists(Path(dir_output) / path):
                 os.mkdir(Path(dir_output) / path)
-            logging.debug(f"processing {files}")
+            logging.debug("processing %s", files)
             for file in files:
-                logging.debug("main: processing: file:  ",file)
+                logging.debug("main: processing: file: %s", file)
                 if 'sidebar' in config and file == config['sidebar']:
                     continue
                 clean_name = scrub_path(file)
@@ -220,7 +222,10 @@ def main():
         # copy static assets directory
         logging.debug("copy static assets directory")
         if os.path.exists(Path(dir_templates) / 'mwb-static'):
+            logging.warning("mwb-static is deprecated. please use 'static', and put mwb-static inside static - see docs")
             shutil.copytree(Path(dir_templates) / 'mwb-static', Path(dir_output) / 'mwb-static')
+        if os.path.exists(Path(dir_templates) / 'static'):
+            shutil.copytree(Path(dir_templates) / 'static', Path(dir_output), dirs_exist_ok=True)
 
         # build all-pages.html
         logging.debug("build all-pages.html")
