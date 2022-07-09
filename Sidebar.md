@@ -8,6 +8,7 @@
 [[Tumblr repostings]]  
 
 [[Einstein & Infeld on Physical Concepts]]  
+[[Jiddu Krishnamurti on Truth]]
 
 #### General Navigation
 
