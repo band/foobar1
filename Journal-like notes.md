@@ -23,7 +23,7 @@
 - [[2021-07-19-17-51-45 critical race theory]]
 - [[2021-07-19-09-06 simsa04 on climate and recent floods in Germany]]
 - [[2021-07-18-17-09-20 Samuel Beckett]]
-- [[2021-07-16-10-54-13 Humans and AI]]
+- [[2021-07-16-10 Virginia Dignum Humans and AI]]
 - [[2021-07-13-21-25-37 Tom Nichols]]
 - [[2021-07-12-18-21-35 maps]]
 - [[2021-07-12-17-36-42 Naruda - understanding ourselves]]
