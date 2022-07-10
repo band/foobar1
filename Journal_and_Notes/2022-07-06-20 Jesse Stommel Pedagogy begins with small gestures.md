@@ -3,6 +3,8 @@ created: 2022-07-06T20:17:32-05:00
 modified: 2022-07-06T20:17:39-05:00
 ---
 
+# 2022-07-06-20 Jesse Stommel Pedagogy begins with small gestures
+
 Jesse Stommel (@Jessifer): Pedagogy begins with small gestures. What we ask to be called. The online platforms we use. The first word of our syllabus. A single tweet.
 
 Jesse Stommel (@Jessifer): Small gestures. Whether our statement about basic needs is at the beginning of our syllabus or at the end. Whether we simply cut and paste our disability statement or say something directly to students, in our own voice, about how we've worked to make the course accessible.

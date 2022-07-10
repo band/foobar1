@@ -2,10 +2,11 @@
 created: 2022-07-06T21:36:58-05:00
 modified: 2022-07-06T21:37:02-05:00
 ---
+# 2022-07-06-21 David Hogg on mass terrorism in the USA
 
 David Hogg ☮️ (@davidhogg111): I’ve been extremely hesitant to say this because I don’t want to see it happen but I feel like I have to- let me be clear I’m not an expert but I’m deeply worried we could be on the edge of something far worse happening than we’ve already seen. I’m worried it will if we don’t act
 
-David Hogg ☮️ (@davidhogg111): I do not think near enough Republicans, Democrats or law enforcement realize how close we could be to a coordinated mass terrorist attack in the United States by these young, heavily armed white nationalists.
+I do not think near enough Republicans, Democrats or law enforcement realize how close we could be to a coordinated mass terrorist attack in the United States by these young, heavily armed white nationalists.
 
 David Hogg ☮️ (@davidhogg111): So far they have acted on their own but there are many of them and they are heavily armed and want the same thing- a male dominated, white ethnostate. They have been radicalized online and by cable news into believing there is a literal “white genocide” in our country.
 
