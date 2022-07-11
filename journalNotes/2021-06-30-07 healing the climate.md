@@ -2,6 +2,7 @@
 created: 2021-06-30T07:04:30-05:00
 modified: 2021-06-30T07:05:10-05:00
 ---
+# 2021-06-30-07 healing the climate
 
 Dr. Elizabeth Sawin (@bethsawin): 
 If you've been dreading and/or working against this moment of climate consequences hitting harder and harder for many years, what do you want people who are more recently attuned to climate change to know?
@@ -14,3 +15,5 @@ For me, it's a few simple things:
 
 Tim Patterson (@TCPatterson):
 @bethsawin There's no point where it makes sense to give up - every fraction of a degree of heating that we can prevent makes a difference, and is worth working for.
+
+#thread 

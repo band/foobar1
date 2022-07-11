@@ -2,6 +2,7 @@
 created: 2021-07-01T16:04:15-05:00
 modified: 2021-07-01T16:04:28-05:00
 ---
+# 2021-07-01-16 Wallace-Wells on reducing fossil fuel use
 
 David Wallace-Wells (@dwallacewells): "The conclusion is unavoidable: If there is to be a stabilization of global emissions it will involve a U-turn in the trajectory of consumption, particularly amongst the top 10% in North America, the Arab world and Asia." The great @adam_tooze (1/x) https://adamtooze.substack.com/p/chartbook-newsletter-24
 
@@ -50,3 +51,6 @@ David Wallace-Wells (@dwallacewells): "The conclusion is unavoidable: If there i
 "We can hardly avoid the conclusion that if there is to be an energy transition, under prevailing conditions (an assumption some may wish to challenge), it is this social class that must make it, simultaneously as decision-makers, consumers and investors."
 
 "And it must be made across the entire world. It is a challenge of a kind that the global bourgeoisie has never faced before, and which puts in question the cohesion and collective intelligence of that group—which, as history tells us, can hardly be taken for granted." (X/x)
+
+#thread 
+#cllimate
