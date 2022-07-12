@@ -143,3 +143,5 @@ Ito calls for a mindset change. This is the response I imagine. We'd teach our c
 > is: human.[33]
 
  It's time to heed the advice of Weiner, von Forster, Mead, Forrester, and other founders of cybernetics, and put human connection back in the system.
+
+#systemchange 
