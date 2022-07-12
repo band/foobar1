@@ -3,7 +3,10 @@ created: 2022-06-26T17:58:38-05:00
 modified: 2022-06-26T17:58:43-05:00
 ---
 
-Kevin Anderson (@KevinClimate): A really important piece drawing attention to the deep & systemic biases in the scenarios & framing of Working Group 3 of the IPCC. There are a lot of lessons and good guidance in this uncomfortable read. To me at least, it helps situate WGIII scenarios as part of the problem. https://twitter.com/rosaluxglobal/status/1540335865360171009
+
+# 2022-06-26 Kevin Anderson IPCC WG3 scenarios
+
+Kevin Anderson (@KevinClimate): A really important piece drawing attention to the deep & systemic biases in the scenarios & framing of Working Group 3 of the IPCC. There are a lot of lessons and good guidance in this uncomfortable read. To me at least, it helps situate WGIII scenarios as part of the problem. <https://twitter.com/rosaluxglobal/status/1540335865360171009>
 
 Oliver Geden (@Oliver_Geden): @KevinClimate there may be ambitious temperature stabilisation scenarios without net-negative emissions, but I doubt you can seriously model 1.5C pathways without any Carbon Dioxide Removal (as suggested in the interview by @ysaheb & Kai Kuhnhenn/@NeueOekonomie)
 

@@ -3,6 +3,8 @@ created: 2021-06-27T17:09:13-05:00
 type: Journal
 ---
 
+# 2021-06-27-17 Pacific-NW heat wave
+
 Twitter thread on the Pacific/NW heat wave from Bob Henson (@bhensonweather): 
 
 The building PacNW/SW Canada heat wave is not just a grave public health threat. I think it'll have a profound effect on the collective psyche of the region, and just maybe on climate change awareness. 1/7
@@ -39,3 +41,5 @@ https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-mete
 I've no doubt there will be several such attribution studies on the Pac NW/SW Canada heat wave in coming months. I'll be shocked if human-caused global warming isn't heavily implicated. 
 
 For now, if you're in the affected area, please take care and stay safe as best you can. 7/7
+
+#thread 

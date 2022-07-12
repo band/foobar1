@@ -3,8 +3,10 @@ created: 2022-06-06T17:31:44-05:00
 modified: 2022-06-06T17:31:51-05:00
 ---
 
+# 2022-06-06 Michael Mann ethics and rules of climate tinkering
+
 Prof Michael E. Mann (@MichaelEMann): "New panels want to talk ethics, rules of climate tinkering" by Seth Borenstein (@borenbears) for the @AP:
-https://apnews.com/article/climate-politics-science-and-environment-f336496afcb0af423da2572c9c88ff7e
+<https://apnews.com/article/climate-politics-science-and-environment-f336496afcb0af423da2572c9c88ff7e>
 
 w/ comments from me and others (a thread) 🧵
 

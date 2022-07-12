@@ -1,4 +1,4 @@
-## 2021-07-04 Notes on Distill hiatus
+# 2021-07-04 Notes on Distill hiatus
 
 "Over the past five years, Distill has supported authors in publishing
 artifacts that push beyond the traditional expectations of scientific

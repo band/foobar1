@@ -1,4 +1,4 @@
-2021-05-25
+# 2021-05-25 - world of tropes
 
 	I'm livin' in a world of tropes,
 	Banalities, mottos, sayings, and aphorisms.
@@ -17,4 +17,5 @@
 	For this.
 	Thank you.
 	
-	
+
+#poetry
