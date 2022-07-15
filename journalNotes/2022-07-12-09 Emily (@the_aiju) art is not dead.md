@@ -27,4 +27,4 @@ anyway the good news is that none of this matters and that while the galleries h
 
 #thread  #tweet 
 
-/ht @Bill Seitz
+/ht @BillSeitz
