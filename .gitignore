@@ -5,10 +5,14 @@
 *~
 \#*\#
 
+# Python
+__pycache__
+venv
+
 # Obsidian.md
 .obsidian/*
 !.obsidian/README.md
 
 # Massive Wiki Builder
 .massivewikibuilder/output/*
-venv
+.massivewikibuilder/node_modules
