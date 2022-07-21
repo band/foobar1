@@ -8,5 +8,5 @@ From [[2022-07-01 Prof Julia Steinberger climate and ecology crises thoughts]]
 
 
 From [[2022-07-14 Jamelle Bouie the Republican ideal]]  
-For me the key phrase is "the preferred conservative social order [is one] of isolated, atomized households kept in line through market discipline."
+For me the key phrase is "the preferred conservative social order (is one) of isolated, atomized households kept in line through market discipline."
 
