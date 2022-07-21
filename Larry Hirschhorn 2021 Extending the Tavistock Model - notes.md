@@ -8,9 +8,16 @@ Source article: Larry Hirschhorn, Extending the Tavistork model: bringing desire
 - how anxiety shapes our core understanding of organizational psychodynamics  
 - how open systems theory provides a model of a well-functioning organization in which anxiety is contained. 
 - how sociotechnical system thinking amplifies well-functioning by considering issues of alienation and work satisfaction  
-- in satisfying work environs desires stimulates an abstract future, and also creates feelings of excitement, danger, and dread, as well as a contest for authority. 
+- in satisfying work environs desire stimulates an abstract future, and also creates feelings of excitement, danger, and dread, as well as a contest for authority. 
 - how desire and the link to new primary task(s) stimulate politics and an experience of primary risk  
 - the idea of developmental defences and structures - and a next step for psychoanalytic informed theory of organizational development. 
 
 The presenting question becomes: can organizations tolerate the friction sufficiently in order to take advantage of desire and its consequences?
+
+
+#### 2022-07-21
+/ the value in this essay is in LH's developmental theory ideas //  
+/ this is shown in Table 1, on p. 132 //  
+![[Hirschhorn_2021_devPoliticsTable.png]]  
+
 
