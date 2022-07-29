@@ -18,6 +18,7 @@ The presenting question becomes: can organizations tolerate the friction suffici
 #### 2022-07-21
 / the value in this essay is in LH's developmental model ideas //  
 / this is shown in Table 1, on p. 132, which has been edited to reflect my understandings //  
-![[Hirschhorn_2021_devPoliticsTable-V2.png]]  
+![[Hirschhorn_2021_p132Table.png]]
+
 
 

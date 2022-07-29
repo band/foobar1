@@ -16,8 +16,5 @@ Reference materials:
 - [[James Krantz 2010 Social Defenses and 21st Century Organizations]]  
 - WLA's mindmap of the same article  
 - [[Larry Hirschhorn 2021 Extending the Tavistock Model - notes]]  
-- 
-
-
 
 
