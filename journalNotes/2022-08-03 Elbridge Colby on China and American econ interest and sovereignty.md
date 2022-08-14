@@ -3,6 +3,8 @@ created: 2022-08-03T17:32:02-05:00
 modified: 2022-08-03T17:32:12-05:00
 ---
 
+# 2022-08-03 Elbridge Colby on China and American econ interest and sovereignty
+
 Elbridge Colby (@ElbridgeColby): I'm very sympathetic to those who don't want to fight to defend Taiwan. I'm against the forever wars and generally am skeptical about the use of our military. 
 
 But defending Taiwan makes sense *for Americans' concrete economic interests, freedoms, and sovereignty*. 
@@ -38,3 +40,5 @@ Elbridge Colby (@ElbridgeColby): But we're not doing that right now. Instead we'
 Elbridge Colby (@ElbridgeColby): Success would be laser-focusing on being able to defend Taiwan, China seeing that, and never trying to attack the island because they realize they'd fail. This is possible. Mao wanted to conquer Taiwan but never tried because he knew he'd fail. 14/
 
 Elbridge Colby (@ElbridgeColby): If we could convince Beijing they'd fail now, they'd be unlikely to try. Then our anti-hegemonic coalition in Asia would stand up and survive. Then we'd have a good power balance. Then we'd have a strong basis for our economy to prosper: market share, a strong dollar, etc. 15/
+
+#thread #tweet #poli-sci

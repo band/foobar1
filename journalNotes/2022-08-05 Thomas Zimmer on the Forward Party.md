@@ -3,6 +3,8 @@ created: 2022-08-05T15:10:17-05:00
 modified: 2022-08-05T15:10:24-05:00
 ---
 
+# 2022-08-05 Thomas Zimmer on the Forward Party
+
 Thomas Zimmer (@tzimmer_history): Let’s talk about the Forward Party.
 
 It encapsulates all the fallacies of a shallow “unity politics” that is based on a superficial analysis of what ails the country and offers empty promises of overcoming “division” as pseudo-solutions that are actively harmful politically.  1/ https://twitter.com/tzimmer_history/status/1555544925097414656/photo/1

@@ -73,3 +73,6 @@ CDR: Carbon Dioxide Removal
 
 
 #thread #tweet #EndClimateSilence 
+
+See also:  
+[[eco-modernism defense (wtfit)]]

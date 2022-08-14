@@ -3,6 +3,10 @@ created: 2022-07-21T17:25:22-05:00
 modified: 2022-07-21T17:25:27-05:00
 ---
 
+# 2022-07-21 Madi Hilly nuclear waste is not a problem
+
+(WLA note: nuclear power generation is controversial, but is nuclear waste the biggest problem? This thread led me to thinking that there is much that I do not know about nuclear energy generation.)
+
 Madi Hilly (@MadiHilly): MYTH: We don't have a solution to nuclear's "waste problem"
 
 REALITY: Nuclear waste isn't a problem. In fact, it’s the best solution we have to meeting our energy needs while protecting the natural environment! 

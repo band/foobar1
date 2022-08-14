@@ -3,6 +3,8 @@ created: 2022-08-04T09:43:11-05:00
 modified: 2022-08-04T09:43:17-05:00
 ---
 
+# 2022-08-04 Krugman and Hickel on degrowth
+
 Paul Krugman (@paulkrugman): On the margins of actual policy debate, there's a bit of harassment from "degrowthers" who insist that environmental protection requires an end to growth. Folks, here's a chart 1/ https://twitter.com/paulkrugman/status/1555156317026881537/photo/1
 
 Jason Hickel (@jasonhickel): @paulkrugman The concern is not that GDP can't be decoupled from emissions (of course it can, as we've known for decades) but that it may be unfeasible for HICs to cut emissions fast enough to achieve Paris goals if they pursue growth as usual. https://www.jasonhickel.org/s/Hickel-and-Kallis-Is-Green-Growth-Possible.pdf https://tandfonline.com/doi/full/10.1080/13563467.2019.1598964
