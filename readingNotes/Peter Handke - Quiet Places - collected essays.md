@@ -1,6 +1,6 @@
 # Peter Handke - Quiet Places - collected essays
 
-TItle: Quiet Places - Collected Essays
+Title: Quiet Places - Collected Essays
 
 Author: Peter Handke  
 	Translated from the German by Krishna Winston and Ralph Manheim  
