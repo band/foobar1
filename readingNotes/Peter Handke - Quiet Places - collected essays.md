@@ -15,9 +15,9 @@ Page 37 (Essay on Quiet Places):
 
 Page 61 (Essay on a Mushroom Maniac):
 
-> ... In any case, every time he dashed away from his house and the village, crossing meadows, pastures, and cultivated fields, and headed uphill through the last of the orchards to the edge of the woods in order to "listen in" to all the sounds the leaves made -- the edge of the woods consisted mostly of folliage trees -- hed did so and undertook that in the awareness of, or, your might say, the illusory belief in, a higher calling.
+> ... In any case, every time he dashed away from his house and the village, crossing meadows, pastures, and cultivated fields, and headed uphill through the last of the orchards to the edge of the woods in order to "listen in" to all the sounds the leaves made -- the edge of the woods consisted mostly of folliage trees -- he did so and undertook that in the awareness of, or, your might say, the illusory belief in, a higher calling.
 
-Page 118 (Essas on a Mushroom Maniac):
+Page 118 (Essay on a Mushroom Maniac):
 
 > Mushrooms as "the last wilderness?" According to my mushroom maniac, this, too, "as clear as the day": in the sense that by now mushrooms were the only growing things on earth that categorically refused to allow themselves to be cultivated, civilized, let alone domesticated, which grew only wild, impervious to human intervention.
 
