@@ -3,6 +3,8 @@ created: 2022-08-31T06:57:08-05:00
 modified: 2022-08-31T06:57:16-05:00
 ---
 
+# 2022-08-31 Jonathan Foley - Twitter exchange on climate optimism
+
 Dr. Jonathan Foley (@GlobalEcoGuy): I’ve been working on climate issues for decades, and I have to say that I’m actually more optimistic than ever that we will address it.
 
 Why? A thread…
