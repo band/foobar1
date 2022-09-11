@@ -3,7 +3,9 @@ created: 2022-09-04T16:22:23-05:00
 modified: 2022-09-04T16:24:10-05:00
 ---
 
-Posted by @sellieyoung
+# 2022-09-04 Irthu Suresh - let us rebuild from our mistakes
+
+Posted by @sellieyoung <https://twitter.com/sellieyoung/status/1566532402977144832>
 
 Irthu (@IrthuSuresh): If you look back long enough in history everyone did cruel things to everyone else. 
 
@@ -14,3 +16,7 @@ Ellie at Common Action (@sellieyoung): @IrthuSuresh @cognitivepolicy joined our 
 Joe Brewer (@cognitivepolicy): @sellieyoung @IrthuSuresh Totally with you both in this... we construct peace from the broken shards of violence and trauma. This is key to regenerative cultures in more ways than most people realize.
 
 Irthu (@IrthuSuresh): @cognitivepolicy @sellieyoung 💯💯 let us rebuild from our mistakes. No one to blame. A lot to do and achieve through compassion, camaraderie & collaboration
+
+#thread #tweet  
+
+(2022-09-05: can we remain positive and avoid being pollyanna-ish?)
